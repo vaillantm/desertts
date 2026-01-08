@@ -23,7 +23,7 @@ Due to CORS restrictions when loading `data.json`, it's better to use a local se
 
 ```bash
 # Using Python 3
-python -m http.server 8000
+python -m http.server 80
 
 # Using Node.js (http-server)
 npx http-server -p 8000
