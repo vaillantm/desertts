@@ -4,3 +4,7 @@ Use these commands to test locally after cloning
 npm run build
 npx http-server -p 8080
 
+## Preview
+
+![Preview of the Dessert Shop](images/preview.png)
+
